@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<!--
+	Spatial by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title> Olga Trichtchenko, Ph.D. </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html"> Website </a></strong> by Olga Trichtchenko </h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="research.html">Research</a></li>
+						<li><a href="teaching.html">Teaching</a></li>
+						<li><a href="resources.html">Resources</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special">
+						<h2> Resources </h2>
+						<p> A collection of links I find important and useful </p>
+					</header>
+
+								
+
+					<!-- Table -->
+						<section>
+							<h3> Useful links for programming </h3>
+							<h4>Default</h4>
+							<div class="table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th> Name </th>
+											<th> Description </th>
+											<th> Link </th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td> Anaconda </td>
+											<td> One of the most widely used Python distribution packages.</td>
+											<td> <a href="https://conda.io/docs/glossary.html#anaconda"> Find out more about Anaconda here </a> </td>
+										</tr>
+										
+									</tbody>
+									<tfoot>
+										<tr>
+											<td colspan="2"></td>
+											<td>100.00</td>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+							
+					</section>
+
+		<!-- Scripts -->
+			<script src="jquery.min.js"></script>
+			<script src="skel.min.js"></script>
+			<script src="util.js"></script>
+			<script src="main.js"></script>
+
+	</body>
+</html>
